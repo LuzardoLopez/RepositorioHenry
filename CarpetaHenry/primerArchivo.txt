@@ -1,0 +1,6 @@
+Luzardo Lopez
+
+Homework del M02, crear repositorio en github 
+-> Clonar localmente dicho repositorio 
+-> Crear la carpeta y archivo mediante los codigos en la terminal 
+-> Posteriormente subir los archivos a github
